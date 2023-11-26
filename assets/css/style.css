@@ -4,6 +4,8 @@
 *{
     scroll-behavior: smooth;
     transition: all .3s ease;
+    font-family: 'Bai Jamjuree', sans-serif;
+    line-height: 1.7;
 }
 :root{
     --bs-body-color: #7B8AB8!important;
@@ -27,11 +29,6 @@
 }
 .dark-theme .divider{
     border-bottom: 1px solid rgba(255, 255, 255, 0.8);
-}
-
-body{
-    font-family: 'Bai Jamjuree', sans-serif;
-    line-height: 1.7;
 }
 .section-padding{
     padding-top: 120px;
