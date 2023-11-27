@@ -1,14 +1,10 @@
 /* FONT STYLE */
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
 
-* {
+*{
     scroll-behavior: smooth;
-    transition: all .3s ease;
     font-family: 'Bai Jamjuree', sans-serif;
     line-height: 1.7;
-}
-:root{
-    --bs-body-color: #7B8AB8!important;
 }
 .change-theme{
     font-size: 1.3rem;
@@ -20,7 +16,7 @@
     transition: all .3s ease;
 }
 .dark-theme{
-    background-color: #24292d;
+    background-color: #343a40;
     color: #fefefe;
 }
 .dark-theme nav.navbar{
